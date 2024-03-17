@@ -1,0 +1,15 @@
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.AssemblyInfoInputs.cache
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.AssemblyInfo.cs
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.csproj.CoreCompileInputs.cache
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.sourcelink.json
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\bin\Debug\net8.0\tpmod5_1302220151.exe
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\bin\Debug\net8.0\tpmod5_1302220151.deps.json
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\bin\Debug\net8.0\tpmod5_1302220151.runtimeconfig.json
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\bin\Debug\net8.0\tpmod5_1302220151.dll
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\bin\Debug\net8.0\tpmod5_1302220151.pdb
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.dll
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\refint\tpmod5_1302220151.dll
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.pdb
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\tpmod5_1302220151.genruntimeconfig.cache
+D:\Tugas\tpmod5_1302220151\tpmod5_1302220151\obj\Debug\net8.0\ref\tpmod5_1302220151.dll
